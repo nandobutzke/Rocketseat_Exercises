@@ -1,0 +1,14 @@
+/Users/fernandobutzke/RiderProjects/ExerciseOne/bin/Debug/net8.0/ExerciseOne
+/Users/fernandobutzke/RiderProjects/ExerciseOne/bin/Debug/net8.0/ExerciseOne.deps.json
+/Users/fernandobutzke/RiderProjects/ExerciseOne/bin/Debug/net8.0/ExerciseOne.runtimeconfig.json
+/Users/fernandobutzke/RiderProjects/ExerciseOne/bin/Debug/net8.0/ExerciseOne.dll
+/Users/fernandobutzke/RiderProjects/ExerciseOne/bin/Debug/net8.0/ExerciseOne.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseOne/obj/Debug/net8.0/ExerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandobutzke/RiderProjects/ExerciseOne/obj/Debug/net8.0/ExerciseOne.AssemblyInfoInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseOne/obj/Debug/net8.0/ExerciseOne.AssemblyInfo.cs
+/Users/fernandobutzke/RiderProjects/ExerciseOne/obj/Debug/net8.0/ExerciseOne.csproj.CoreCompileInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseOne/obj/Debug/net8.0/ExerciseOne.dll
+/Users/fernandobutzke/RiderProjects/ExerciseOne/obj/Debug/net8.0/refint/ExerciseOne.dll
+/Users/fernandobutzke/RiderProjects/ExerciseOne/obj/Debug/net8.0/ExerciseOne.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseOne/obj/Debug/net8.0/ExerciseOne.genruntimeconfig.cache
+/Users/fernandobutzke/RiderProjects/ExerciseOne/obj/Debug/net8.0/ref/ExerciseOne.dll

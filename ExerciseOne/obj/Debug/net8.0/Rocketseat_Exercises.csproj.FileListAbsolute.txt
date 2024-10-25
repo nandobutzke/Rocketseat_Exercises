@@ -1,0 +1,14 @@
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/bin/Debug/net8.0/Exercise_One
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/bin/Debug/net8.0/Exercise_One.deps.json
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/bin/Debug/net8.0/Exercise_One.runtimeconfig.json
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/bin/Debug/net8.0/Exercise_One.dll
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/bin/Debug/net8.0/Exercise_One.pdb
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/obj/Debug/net8.0/Rocketseat_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/obj/Debug/net8.0/Rocketseat_Exercises.AssemblyInfoInputs.cache
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/obj/Debug/net8.0/Rocketseat_Exercises.AssemblyInfo.cs
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/obj/Debug/net8.0/Rocketseat_Exercises.csproj.CoreCompileInputs.cache
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/obj/Debug/net8.0/Exercise_One.dll
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/obj/Debug/net8.0/refint/Exercise_One.dll
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/obj/Debug/net8.0/Exercise_One.pdb
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/obj/Debug/net8.0/Rocketseat_Exercises.genruntimeconfig.cache
+/Users/fernandobutzke/RiderProjects/Rocketseat_Exercises/obj/Debug/net8.0/ref/Exercise_One.dll

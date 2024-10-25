@@ -1,0 +1,14 @@
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/bin/Debug/net8.0/ExerciseTwo
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/bin/Debug/net8.0/ExerciseTwo.deps.json
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/bin/Debug/net8.0/ExerciseTwo.runtimeconfig.json
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/bin/Debug/net8.0/ExerciseTwo.dll
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/bin/Debug/net8.0/ExerciseTwo.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/obj/Debug/net8.0/ExerciseTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/obj/Debug/net8.0/ExerciseTwo.AssemblyInfoInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/obj/Debug/net8.0/ExerciseTwo.AssemblyInfo.cs
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/obj/Debug/net8.0/ExerciseTwo.csproj.CoreCompileInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/obj/Debug/net8.0/ExerciseTwo.dll
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/obj/Debug/net8.0/refint/ExerciseTwo.dll
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/obj/Debug/net8.0/ExerciseTwo.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/obj/Debug/net8.0/ExerciseTwo.genruntimeconfig.cache
+/Users/fernandobutzke/RiderProjects/ExerciseTwo/obj/Debug/net8.0/ref/ExerciseTwo.dll

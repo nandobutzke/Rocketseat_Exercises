@@ -1,0 +1,14 @@
+/Users/fernandobutzke/RiderProjects/ExerciseSix/bin/Debug/net8.0/ExerciseSix
+/Users/fernandobutzke/RiderProjects/ExerciseSix/bin/Debug/net8.0/ExerciseSix.deps.json
+/Users/fernandobutzke/RiderProjects/ExerciseSix/bin/Debug/net8.0/ExerciseSix.runtimeconfig.json
+/Users/fernandobutzke/RiderProjects/ExerciseSix/bin/Debug/net8.0/ExerciseSix.dll
+/Users/fernandobutzke/RiderProjects/ExerciseSix/bin/Debug/net8.0/ExerciseSix.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseSix/obj/Debug/net8.0/ExerciseSix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandobutzke/RiderProjects/ExerciseSix/obj/Debug/net8.0/ExerciseSix.AssemblyInfoInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseSix/obj/Debug/net8.0/ExerciseSix.AssemblyInfo.cs
+/Users/fernandobutzke/RiderProjects/ExerciseSix/obj/Debug/net8.0/ExerciseSix.csproj.CoreCompileInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseSix/obj/Debug/net8.0/ExerciseSix.dll
+/Users/fernandobutzke/RiderProjects/ExerciseSix/obj/Debug/net8.0/refint/ExerciseSix.dll
+/Users/fernandobutzke/RiderProjects/ExerciseSix/obj/Debug/net8.0/ExerciseSix.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseSix/obj/Debug/net8.0/ExerciseSix.genruntimeconfig.cache
+/Users/fernandobutzke/RiderProjects/ExerciseSix/obj/Debug/net8.0/ref/ExerciseSix.dll

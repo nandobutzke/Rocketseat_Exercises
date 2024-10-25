@@ -1,0 +1,14 @@
+/Users/fernandobutzke/RiderProjects/ExerciseFour/bin/Debug/net8.0/ExerciseFour
+/Users/fernandobutzke/RiderProjects/ExerciseFour/bin/Debug/net8.0/ExerciseFour.deps.json
+/Users/fernandobutzke/RiderProjects/ExerciseFour/bin/Debug/net8.0/ExerciseFour.runtimeconfig.json
+/Users/fernandobutzke/RiderProjects/ExerciseFour/bin/Debug/net8.0/ExerciseFour.dll
+/Users/fernandobutzke/RiderProjects/ExerciseFour/bin/Debug/net8.0/ExerciseFour.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseFour/obj/Debug/net8.0/ExerciseFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandobutzke/RiderProjects/ExerciseFour/obj/Debug/net8.0/ExerciseFour.AssemblyInfoInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseFour/obj/Debug/net8.0/ExerciseFour.AssemblyInfo.cs
+/Users/fernandobutzke/RiderProjects/ExerciseFour/obj/Debug/net8.0/ExerciseFour.csproj.CoreCompileInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseFour/obj/Debug/net8.0/ExerciseFour.dll
+/Users/fernandobutzke/RiderProjects/ExerciseFour/obj/Debug/net8.0/refint/ExerciseFour.dll
+/Users/fernandobutzke/RiderProjects/ExerciseFour/obj/Debug/net8.0/ExerciseFour.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseFour/obj/Debug/net8.0/ExerciseFour.genruntimeconfig.cache
+/Users/fernandobutzke/RiderProjects/ExerciseFour/obj/Debug/net8.0/ref/ExerciseFour.dll

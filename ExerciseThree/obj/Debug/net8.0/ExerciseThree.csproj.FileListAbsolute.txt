@@ -1,0 +1,14 @@
+/Users/fernandobutzke/RiderProjects/ExerciseThree/bin/Debug/net8.0/ExerciseThree
+/Users/fernandobutzke/RiderProjects/ExerciseThree/bin/Debug/net8.0/ExerciseThree.deps.json
+/Users/fernandobutzke/RiderProjects/ExerciseThree/bin/Debug/net8.0/ExerciseThree.runtimeconfig.json
+/Users/fernandobutzke/RiderProjects/ExerciseThree/bin/Debug/net8.0/ExerciseThree.dll
+/Users/fernandobutzke/RiderProjects/ExerciseThree/bin/Debug/net8.0/ExerciseThree.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseThree/obj/Debug/net8.0/ExerciseThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandobutzke/RiderProjects/ExerciseThree/obj/Debug/net8.0/ExerciseThree.AssemblyInfoInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseThree/obj/Debug/net8.0/ExerciseThree.AssemblyInfo.cs
+/Users/fernandobutzke/RiderProjects/ExerciseThree/obj/Debug/net8.0/ExerciseThree.csproj.CoreCompileInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseThree/obj/Debug/net8.0/ExerciseThree.dll
+/Users/fernandobutzke/RiderProjects/ExerciseThree/obj/Debug/net8.0/refint/ExerciseThree.dll
+/Users/fernandobutzke/RiderProjects/ExerciseThree/obj/Debug/net8.0/ExerciseThree.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseThree/obj/Debug/net8.0/ExerciseThree.genruntimeconfig.cache
+/Users/fernandobutzke/RiderProjects/ExerciseThree/obj/Debug/net8.0/ref/ExerciseThree.dll

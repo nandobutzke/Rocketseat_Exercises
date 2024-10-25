@@ -1,0 +1,14 @@
+/Users/fernandobutzke/RiderProjects/ExerciseFive/bin/Debug/net8.0/ExerciseFive
+/Users/fernandobutzke/RiderProjects/ExerciseFive/bin/Debug/net8.0/ExerciseFive.deps.json
+/Users/fernandobutzke/RiderProjects/ExerciseFive/bin/Debug/net8.0/ExerciseFive.runtimeconfig.json
+/Users/fernandobutzke/RiderProjects/ExerciseFive/bin/Debug/net8.0/ExerciseFive.dll
+/Users/fernandobutzke/RiderProjects/ExerciseFive/bin/Debug/net8.0/ExerciseFive.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseFive/obj/Debug/net8.0/ExerciseFive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandobutzke/RiderProjects/ExerciseFive/obj/Debug/net8.0/ExerciseFive.AssemblyInfoInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseFive/obj/Debug/net8.0/ExerciseFive.AssemblyInfo.cs
+/Users/fernandobutzke/RiderProjects/ExerciseFive/obj/Debug/net8.0/ExerciseFive.csproj.CoreCompileInputs.cache
+/Users/fernandobutzke/RiderProjects/ExerciseFive/obj/Debug/net8.0/ExerciseFive.dll
+/Users/fernandobutzke/RiderProjects/ExerciseFive/obj/Debug/net8.0/refint/ExerciseFive.dll
+/Users/fernandobutzke/RiderProjects/ExerciseFive/obj/Debug/net8.0/ExerciseFive.pdb
+/Users/fernandobutzke/RiderProjects/ExerciseFive/obj/Debug/net8.0/ExerciseFive.genruntimeconfig.cache
+/Users/fernandobutzke/RiderProjects/ExerciseFive/obj/Debug/net8.0/ref/ExerciseFive.dll
